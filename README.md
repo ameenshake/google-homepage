@@ -1,2 +1,5 @@
 # google-homepage
-Here goes, my first project on GitHub!
+
+The GOOGlE HOMEPAGE
+
+http://www.theodinproject.com/web-development-101/html-css?ref=lnav
